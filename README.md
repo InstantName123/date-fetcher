@@ -37,7 +37,6 @@ It supports **proxy rotation**, **Discord webhook alerts**, and a **safety mode*
 5. Run the file in a screen (for linux) for windows you can just run the script and minimize the window
    ```screen python3 auto-fetcher.py```
 
-##⚠️ Disclaimer:
-##This project is for educational and monitoring purposes only.
-
-##Do not use it to send automated requests to third-party services without permission.
+## ⚠️ Disclaimer:
+## This project is for educational and monitoring purposes only.
+## Do not use it to send automated requests to third-party services without permission.
