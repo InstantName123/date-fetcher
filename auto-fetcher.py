@@ -5,10 +5,10 @@ from zoneinfo import ZoneInfo
 # Configurations
 URLS = {
     # Format is like this: 
-    # "file name to show up in the webhook": "http(s)://url_to_your_data_api.io",
+    # "file name to show up in the webhook and in the output_folder": "http(s)://url_to_your_data_api.io",
     "Google": "https://google.com", # Remove this, its only for testing purposes
-    "Played Users": "http://xxx.xxx.xxx.xx:7182/?apiKey=Vo4djssEVIwCkSDPyxt2EWdTnGr50M7z&data=playedusers.json",
-    "Registered Members": "http://xxx.xxx.xxx.xx:7182/?apiKey=Vo4djssEVIwCkSDPyxt2EWdTnGr50M7z&data=registeredmembers.json"
+    "PlayedUsers.json": "http://xxx.xxx.xxx.xx:7182/?apiKey=Vo4djssEVIwCkSDPyxt2EWdTnGr50M7z&data=playedusers.json",
+    "RegisteredMembers.json": "http://xxx.xxx.xxx.xx:7182/?apiKey=Vo4djssEVIwCkSDPyxt2EWdTnGr50M7z&data=registeredmembers.json"
 }
 HTTP_PROXIES = [
     "http://yvxj9uh2tr7h2q6-country-any:InstantName123Proxyyy@proxy.instantname.io:7331",
