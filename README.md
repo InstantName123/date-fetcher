@@ -26,7 +26,7 @@ It supports **proxy rotation**, **Discord webhook alerts**, and a **safety mode*
 2. Activate python enviremont:
    ```python -m venv venv```
    For Linux/MacOS: ```source venv/bin/activate```
-   For Windows: ```venv\Scripts\activate``
+   For Windows: ```venv\Scripts\activate```
 
 3. Install pip "Requests" package
    ```pip install requests```
@@ -35,8 +35,9 @@ It supports **proxy rotation**, **Discord webhook alerts**, and a **safety mode*
    Change all configurations for your project (Don't forget to adjust the waiting time and the webhook)
 
 5. Run the file in a screen (for linux) for windows you can just run the script and minimize the window
-   ```Screen```
+   ```screen python3 auto-fetcher.py```
 
 ##⚠️ Disclaimer:
 ##This project is for educational and monitoring purposes only.
+
 ##Do not use it to send automated requests to third-party services without permission.
