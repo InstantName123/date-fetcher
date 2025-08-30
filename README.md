@@ -16,6 +16,7 @@ It supports **proxy rotation**, **Discord webhook alerts**, and a **safety mode*
 - **Continuous loop** → even on errors/fails it keeps running until stopped manually.
 - **safety mode** → Ensures no unproxied requests are sent when **safety mode** is enabled.
 
+----------------
 
 ## ⚙️ Installation steps:
 
@@ -40,3 +41,4 @@ It supports **proxy rotation**, **Discord webhook alerts**, and a **safety mode*
 ## ⚠️ Disclaimer:
 ## This project is for educational and monitoring purposes only.
 ## Do not use it to send automated requests to third-party services without permission.
+
